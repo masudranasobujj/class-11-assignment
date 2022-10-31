@@ -1,0 +1,25 @@
+/*****product page banner section*****/
+.product-page-banner-section{
+	background: linear-gradient(160deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 50%, rgba(242, 242, 242, 1) 50%, rgba(242, 242, 242, 1) 100%);
+	margin-top: 100px;
+	display: block;
+	padding-bottom: 120px!important;
+}
+.product-page-banner-section .product-page-content{}
+.product-page-banner-section .product-page-content img{}
+.product-page-banner-section .product-page-content h1{
+    color: #3bb44a;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: 1.2px;
+    margin-bottom: 100px;
+}
+.product-page-banner-section .product-page-content h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #767676;
+    line-height: 1.7;
+    letter-spacing: 1.2px;
+}
+/*****product page banner section*****/

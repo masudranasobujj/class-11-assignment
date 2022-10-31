@@ -1,0 +1,114 @@
+@media (max-width: 1399px){
+	/*****product page css responsive *****/
+	.product-page-banner-section {
+    	margin-top: 90px;
+	}
+	/*****product page css responsive *****/
+
+	/*****contact page css responsive *****/
+	.contact-page-banner-section .container {
+    	height: 470px;
+	}
+	/*****contact page css responsive *****/
+
+
+
+}
+@media (max-width: 1199px){
+	/*****product page css responsive *****/
+	.product-page-banner-section {
+    	margin-top: 90px;
+	}
+	.product-page-banner-section .product-page-content h1 {
+    	margin-bottom: 60px;
+	}
+	/*****product page css responsive *****/
+
+	/*****about page css responsive *****/
+	.firestone-content h2 {
+    	line-height: 1.5;
+    	letter-spacing: 1.5px;
+	}
+	/*****about page css responsive *****/
+
+	/*****contact page css responsive *****/
+	.contact-page-banner-section .container {
+    	height: 470px;
+	}
+	/*****contact page css responsive *****/
+
+
+}
+
+@media (max-width: 991px){
+	/*****product page css responsive *****/
+	.product-page-banner-section {
+    	margin-top: 65px;
+	}
+	.product-page-banner-section .product-page-content h1 {
+    	margin-bottom: 25px !important;
+	}
+	.product-page-banner-section .product-page-content h3 {
+    	font-size: 18px;
+    	font-weight: 600;
+    	color: #767676;
+    	line-height: 1.7;
+    	letter-spacing: 1.2px;
+	}
+	/*****product page css responsive *****/
+
+	/*****contact page css responsive *****/
+	.contact-page-banner-section .container {
+    	height: 355px;
+	}
+	/*****contact page css responsive *****/
+
+	
+}
+
+@media (max-width: 767px){
+	/*****product page css responsive *****/
+	.product-page-banner-section {
+    	padding-bottom: 60px!important;
+	}
+	.product-page-banner-section .product-page-content img {
+    width: 200px;
+	}
+	.product-page-banner-section .product-page-content h1 {
+    	text-align: center;
+    	font-size: 35px;
+	}
+	/*****product page css responsive *****/
+
+	/*****contact page css responsive *****/
+	.contact-page-banner-section {
+    	padding: 100px 0px;
+    	padding-bottom: 250px;
+	}
+	.contact-page-banner-section .contact-content {
+    	margin-top: 140px;
+	}
+	/*****contact page css responsive *****/
+
+}
+@media (max-width: 575px){
+	/*****product page css responsive *****/
+
+	/*****product page css responsive *****/
+
+	/*****contact page css responsive *****/
+	.contact-page-banner-section {
+    	padding: 100px 0px;
+    	padding-bottom: 250px;
+	}
+	.contact-page-banner-section .contact-content {
+    	margin-top: 140px;
+	}
+	/*****contact page css responsive *****/
+}
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+/******contact-page-banner-section******/
+.contact-page-banner-section{
+	padding: 100px 0px;
+}
+.contact-page-banner-section .container{
+	background-image: url(../images/zipify-contact-banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 576px;
+
+
+}
+.contact-page-banner-section .contact-content{}
+.contact-page-banner-section .contact-content h3{
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000a8;
+}
+.contact-page-banner-section .contact-content a{
+    text-decoration: none;
+    color: #000 !important;
+}
+.contact-page-banner-section .contact-content .first-child{
+     color: #3aaa35 !important; 
+}
+
+
+/******contact-page-banner-section******/
